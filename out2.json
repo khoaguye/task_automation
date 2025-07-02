@@ -1,0 +1,849 @@
+{
+  "elements": [
+    {
+      "id": 0,
+      "type": "text",
+      "bbox": [
+        0.2691798806190491,
+        0.025265958160161972,
+        0.34259259700775146,
+        0.051861703395843506
+      ],
+      "interactivity": false,
+      "content": "Search Amazon",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 1,
+      "type": "text",
+      "bbox": [
+        0.8878968358039856,
+        0.09109042584896088,
+        0.9365079402923584,
+        0.11702127754688263
+      ],
+      "interactivity": false,
+      "content": "Prime Day",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "bbox": [
+        0.9454365372657776,
+        0.09109042584896088,
+        0.9877645373344421,
+        0.11835106462240219
+      ],
+      "interactivity": false,
+      "content": "July 8-11",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "bbox": [
+        0.7890211343765259,
+        0.15492020547389984,
+        0.879960298538208,
+        0.17619681358337402
+      ],
+      "interactivity": false,
+      "content": "New customer? Start here:",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "bbox": [
+        0.6421957612037659,
+        0.17287233471870422,
+        0.7159391641616821,
+        0.2081117033958435
+      ],
+      "interactivity": false,
+      "content": "Reacheb",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "bbox": [
+        0.2172619104385376,
+        0.18218085169792175,
+        0.54067462682724,
+        0.25797873735427856
+      ],
+      "interactivity": false,
+      "content": "Prime Dayis July 8 to 11",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "bbox": [
+        0.21693122386932373,
+        0.2526595890522003,
+        0.4156745970249176,
+        0.2952127754688263
+      ],
+      "interactivity": false,
+      "content": "Startyour free trial. Save big:",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "bbox": [
+        0.7800925970077515,
+        0.2845744788646698,
+        0.795634925365448,
+        0.29388296604156494
+      ],
+      "interactivity": false,
+      "content": "crave",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "bbox": [
+        0.13227513432502747,
+        0.3118351101875305,
+        0.14847883582115173,
+        0.3257978856563568
+      ],
+      "interactivity": false,
+      "content": "prime",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "bbox": [
+        0.23048941791057587,
+        0.34375,
+        0.2738095223903656,
+        0.363696813583374
+      ],
+      "interactivity": false,
+      "content": "Join Prime",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "bbox": [
+        0.02777777798473835,
+        0.4893617033958435,
+        0.2023809552192688,
+        0.5305851101875305
+      ],
+      "interactivity": false,
+      "content": "Camping gear under $100",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "bbox": [
+        0.27447089552879333,
+        0.49401596188545227,
+        0.4117063581943512,
+        0.5232712626457214
+      ],
+      "interactivity": false,
+      "content": "Warm-weather looks",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "bbox": [
+        0.5181878209114075,
+        0.49069148302078247,
+        0.6365740895271301,
+        0.5285904407501221
+      ],
+      "interactivity": false,
+      "content": "Pre-loved jewelry",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "bbox": [
+        0.7625661492347717,
+        0.490026593208313,
+        0.9239417910575867,
+        0.53125
+      ],
+      "interactivity": false,
+      "content": "Dresses for sunny days",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "bbox": [
+        0.13624338805675507,
+        0.907579779624939,
+        0.1587301641702652,
+        0.9281914830207825
+      ],
+      "interactivity": false,
+      "content": "Tents",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "bbox": [
+        0.1656745970249176,
+        0.9095744490623474,
+        0.19576719403266907,
+        0.927526593208313
+      ],
+      "interactivity": false,
+      "content": "shelters",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "bbox": [
+        0.3819444477558136,
+        0.907579779624939,
+        0.40046295523643494,
+        0.927526593208313
+      ],
+      "interactivity": false,
+      "content": "Tops",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "bbox": [
+        0.02876984141767025,
+        0.9714095592498779,
+        0.05224867910146713,
+        0.9966755509376526
+      ],
+      "interactivity": false,
+      "content": "Shop",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "bbox": [
+        0.27314814925193787,
+        0.9714095592498779,
+        0.30720898509025574,
+        0.9966755509376526
+      ],
+      "interactivity": false,
+      "content": "Shop all",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "bbox": [
+        0.7622354626655579,
+        0.9714095592498779,
+        0.8039020895957947,
+        0.9966755509376526
+      ],
+      "interactivity": false,
+      "content": "Shop now",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "bbox": [
+        0.6941137313842773,
+        0.3683510720729828,
+        0.7139550447463989,
+        0.38696807622909546
+      ],
+      "interactivity": false,
+      "content": "~cROSS",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 21,
+      "type": "icon",
+      "bbox": [
+        0.5183905363082886,
+        0.5385689735412598,
+        0.620028555393219,
+        0.7243823409080505
+      ],
+      "interactivity": true,
+      "content": "Cartier ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 22,
+      "type": "icon",
+      "bbox": [
+        0.7878711223602295,
+        0.09566456079483032,
+        0.8809508681297302,
+        0.14439693093299866
+      ],
+      "interactivity": true,
+      "content": "Sign ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 23,
+      "type": "icon",
+      "bbox": [
+        0.6237645149230957,
+        0.5385407209396362,
+        0.7266693711280823,
+        0.7244837284088135
+      ],
+      "interactivity": true,
+      "content": "Tiffany Co ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 24,
+      "type": "icon",
+      "bbox": [
+        0.3603042960166931,
+        0.0804063007235527,
+        0.43466469645500183,
+        0.12310947477817535
+      ],
+      "interactivity": true,
+      "content": "New Releases ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 25,
+      "type": "icon",
+      "bbox": [
+        0.7903364896774292,
+        0.0031738122925162315,
+        0.8820573091506958,
+        0.0781465619802475
+      ],
+      "interactivity": true,
+      "content": "Hello, sign Account & Lists ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 26,
+      "type": "icon",
+      "bbox": [
+        0.004016316030174494,
+        0.0,
+        0.08291510492563248,
+        0.0765794888138771
+      ],
+      "interactivity": true,
+      "content": "amazon ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 27,
+      "type": "icon",
+      "bbox": [
+        0.27309826016426086,
+        0.5392889380455017,
+        0.3744571805000305,
+        0.7268688678741455
+      ],
+      "interactivity": true,
+      "content": "Bottoms ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 28,
+      "type": "icon",
+      "bbox": [
+        0.02926633507013321,
+        0.5389308929443359,
+        0.1303616613149643,
+        0.7272334098815918
+      ],
+      "interactivity": true,
+      "content": "Camp kitchen ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 29,
+      "type": "icon",
+      "bbox": [
+        0.7635133862495422,
+        0.5380944013595581,
+        0.8643388748168945,
+        0.7253233194351196
+      ],
+      "interactivity": true,
+      "content": "Floral ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 30,
+      "type": "icon",
+      "bbox": [
+        0.8820659518241882,
+        0.0029258981812745333,
+        0.9374287128448486,
+        0.07229927182197571
+      ],
+      "interactivity": true,
+      "content": "Returns Orders ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 31,
+      "type": "icon",
+      "bbox": [
+        0.28381532430648804,
+        0.08062872290611267,
+        0.36112916469573975,
+        0.12285877764225006
+      ],
+      "interactivity": true,
+      "content": "Amazon Basics ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 32,
+      "type": "icon",
+      "bbox": [
+        0.6256999373435974,
+        0.7504351139068604,
+        0.7274522185325623,
+        0.9261201024055481
+      ],
+      "interactivity": true,
+      "content": "Chanel ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 33,
+      "type": "icon",
+      "bbox": [
+        0.6716487407684326,
+        0.07906652241945267,
+        0.7361887097358704,
+        0.12397505342960358
+      ],
+      "interactivity": true,
+      "content": "Smart Home ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 34,
+      "type": "icon",
+      "bbox": [
+        0.48069971799850464,
+        0.07963090389966965,
+        0.5404207110404968,
+        0.12342823296785355
+      ],
+      "interactivity": true,
+      "content": "Groceries ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 35,
+      "type": "icon",
+      "bbox": [
+        0.08445627987384796,
+        0.0019872309640049934,
+        0.22226254642009735,
+        0.0727088674902916
+      ],
+      "interactivity": true,
+      "content": "Delivering to San Antonio 78230 Update location ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 36,
+      "type": "icon",
+      "bbox": [
+        0.6097193956375122,
+        0.07912690937519073,
+        0.6717044115066528,
+        0.12435200810432434
+      ],
+      "interactivity": true,
+      "content": "Gift Cards ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 37,
+      "type": "icon",
+      "bbox": [
+        0.5402513742446899,
+        0.07940265536308289,
+        0.6109827160835266,
+        0.12382377684116364
+      ],
+      "interactivity": true,
+      "content": "Today's Deals ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 38,
+      "type": "icon",
+      "bbox": [
+        0.22041569650173187,
+        0.08021624386310577,
+        0.2848651707172394,
+        0.12265436351299286
+      ],
+      "interactivity": true,
+      "content": "Best Sellers ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 39,
+      "type": "icon",
+      "bbox": [
+        0.936199426651001,
+        0.0025557680055499077,
+        0.9943222999572754,
+        0.07422885298728943
+      ],
+      "interactivity": true,
+      "content": "Cart ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 40,
+      "type": "icon",
+      "bbox": [
+        0.13645122945308685,
+        0.5391127467155457,
+        0.2374042570590973,
+        0.7201791405677795
+      ],
+      "interactivity": true,
+      "content": "Camping furniture ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 41,
+      "type": "icon",
+      "bbox": [
+        0.7431120872497559,
+        0.0037086494266986847,
+        0.7903210520744324,
+        0.07482950389385223
+      ],
+      "interactivity": true,
+      "content": "EN ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 42,
+      "type": "icon",
+      "bbox": [
+        0.43297654390335083,
+        0.08094777911901474,
+        0.48261603713035583,
+        0.12325407564640045
+      ],
+      "interactivity": true,
+      "content": "Registry ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 43,
+      "type": "icon",
+      "bbox": [
+        0.37933871150016785,
+        0.53830486536026,
+        0.48146241903305054,
+        0.7219818830490112
+      ],
+      "interactivity": true,
+      "content": "Dresses ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 44,
+      "type": "icon",
+      "bbox": [
+        0.11442229151725769,
+        0.07967082411050797,
+        0.18869388103485107,
+        0.12269170582294464
+      ],
+      "interactivity": true,
+      "content": "Medical Care ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 45,
+      "type": "icon",
+      "bbox": [
+        0.7356890439987183,
+        0.07825807482004166,
+        0.7735267877578735,
+        0.12439683824777603
+      ],
+      "interactivity": true,
+      "content": "Music ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 46,
+      "type": "icon",
+      "bbox": [
+        0.8684470653533936,
+        0.5389289855957031,
+        0.9706250429153442,
+        0.7175414562225342
+      ],
+      "interactivity": true,
+      "content": "Maxi ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 47,
+      "type": "icon",
+      "bbox": [
+        0.1883857697248459,
+        0.0811479389667511,
+        0.22068177163600922,
+        0.12291835248470306
+      ],
+      "interactivity": true,
+      "content": "Saks ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 48,
+      "type": "icon",
+      "bbox": [
+        0.00685393251478672,
+        0.07767562568187714,
+        0.044611427932977676,
+        0.1274326592683792
+      ],
+      "interactivity": true,
+      "content": "AII ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 49,
+      "type": "icon",
+      "bbox": [
+        0.04587770998477936,
+        0.07885260134935379,
+        0.11480972915887833,
+        0.1233724057674408
+      ],
+      "interactivity": true,
+      "content": "Amazon Haul ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 50,
+      "type": "icon",
+      "bbox": [
+        0.23164166510105133,
+        0.010294024832546711,
+        0.26445096731185913,
+        0.06584266573190689
+      ],
+      "interactivity": true,
+      "content": "All ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 51,
+      "type": "icon",
+      "bbox": [
+        0.5188373923301697,
+        0.9732381105422974,
+        0.5961049199104309,
+        0.9950360059738159
+      ],
+      "interactivity": true,
+      "content": "Shop Luxury Stores ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 52,
+      "type": "icon",
+      "bbox": [
+        0.7635518312454224,
+        0.9063722491264343,
+        0.8637774586677551,
+        0.9332329034805298
+      ],
+      "interactivity": true,
+      "content": "Mini ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 53,
+      "type": "icon",
+      "bbox": [
+        0.27358773350715637,
+        0.9094852805137634,
+        0.3590022623538971,
+        0.9288285970687866
+      ],
+      "interactivity": true,
+      "content": "Poolside essentials ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 54,
+      "type": "icon",
+      "bbox": [
+        0.8704734444618225,
+        0.9055275321006775,
+        0.9714385867118835,
+        0.9333255290985107
+      ],
+      "interactivity": true,
+      "content": "Pastel ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 55,
+      "type": "icon",
+      "bbox": [
+        0.5171249508857727,
+        0.9109836220741272,
+        0.6199851632118225,
+        0.939174234867096
+      ],
+      "interactivity": true,
+      "content": "Rolex ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 56,
+      "type": "icon",
+      "bbox": [
+        0.0292978435754776,
+        0.9090271592140198,
+        0.128162682056427,
+        0.9314296841621399
+      ],
+      "interactivity": true,
+      "content": "Sleeping bags bedding ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 57,
+      "type": "icon",
+      "bbox": [
+        0.38075748085975647,
+        0.7496575117111206,
+        0.48214900493621826,
+        0.9148119688034058
+      ],
+      "interactivity": true,
+      "content": "A sticky note or note-taking application.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 58,
+      "type": "icon",
+      "bbox": [
+        0.13735726475715637,
+        0.750245988368988,
+        0.2371339350938797,
+        0.9180300235748291
+      ],
+      "interactivity": true,
+      "content": "a tool for editing or editing a tool.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 59,
+      "type": "icon",
+      "bbox": [
+        0.7025827765464783,
+        0.011229307390749454,
+        0.7332290410995483,
+        0.06580134481191635
+      ],
+      "interactivity": true,
+      "content": "A magnifying glass or search function.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 60,
+      "type": "icon",
+      "bbox": [
+        0.014631957747042179,
+        0.26692190766334534,
+        0.04474564269185066,
+        0.3418855369091034
+      ],
+      "interactivity": true,
+      "content": "a pencil or eraser tool.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 61,
+      "type": "icon",
+      "bbox": [
+        0.9937265515327454,
+        0.004004878457635641,
+        1.0,
+        0.07394758611917496
+      ],
+      "interactivity": true,
+      "content": "a blank screen or window.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 62,
+      "type": "icon",
+      "bbox": [
+        0.4932084381580353,
+        0.6484434008598328,
+        0.5068460702896118,
+        0.8819187879562378
+      ],
+      "interactivity": true,
+      "content": "a blank screen or window.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 63,
+      "type": "icon",
+      "bbox": [
+        0.9571212530136108,
+        0.2683168053627014,
+        0.9846164584159851,
+        0.445656418800354
+      ],
+      "interactivity": true,
+      "content": "a tool for filling areas with a black line.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 64,
+      "type": "icon",
+      "bbox": [
+        0.9826008677482605,
+        0.7815123200416565,
+        0.9963711500167847,
+        0.9311555027961731
+      ],
+      "interactivity": true,
+      "content": "a blank space or screen.",
+      "source": "box_yolo_content_yolo"
+    }
+  ]
+}

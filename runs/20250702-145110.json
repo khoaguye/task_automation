@@ -1,0 +1,16 @@
+{
+  "task": "find trending show, and play the first video that pop up",
+  "app_name": "Amazon",
+  "plan": [],
+  "step_idx": 0,
+  "img_before": null,
+  "img_after": null,
+  "ui_before": [],
+  "ui_after": [],
+  "action": null,
+  "retries": 0,
+  "status": "todo",
+  "explanation": "",
+  "fix": "",
+  "request": ""
+}
