@@ -8,4 +8,4 @@ pydantic==2.11.7
 selenium==4.34.0
 torch==2.7.0
 transformers==4.51.3
-openai>=1.12,<2
+qwen_vl_utils==0.0.11

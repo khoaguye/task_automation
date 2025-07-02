@@ -124,7 +124,7 @@ class ActionAgent(BaseLLMAgent):
                 raw["bbox"] = bbox
                 break
         else:
-                raise ValueError("Attribute is not compatible.")
+                raise ValueError("Attribute is not match.")
         try:
             #print(type(json.loads(raw)))
             return raw

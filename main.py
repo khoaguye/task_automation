@@ -76,12 +76,12 @@ if __name__ == "__main__":
     
     parser.add_argument(
         "--app_name",
-        default="Amazon",
+        default="Youtube",
         help="Name of the app"
     )
     parser.add_argument(
         "--task",
-        default="find trending show, and play the first video that pop up",
+        default="Youtube app already open, find trending show, and play the first video that pop up",
         help="Natural-language task for the PlannerAgent")
     parser.add_argument(
         "--url",
