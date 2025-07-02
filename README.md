@@ -25,18 +25,15 @@ Navigate to the `OmniParser` subdirectory and install its dependencies:
 
 ---
 
-##   Step&nbsp;4: Load Model Weights
+## ✅ Step&nbsp;4: Load Model Weights
 Refer to the OmniParser documentation (https://github.com/microsoft/OmniParser) for full details.  
 Download the model checkpoints locally:
 
-```bash
-# download model checkpoints to OmniParser/weights/
-for f in icon_detect/{train_args.yaml,model.pt,model.yaml} \
-         icon_caption/{config.json,generation_config.json,model.safetensors}; do
-    huggingface-cli download microsoft/OmniParser-v2.0 "$f" --local-dir weights
-done
-mv weights/icon_caption weights/icon_caption_florence
-
+    for f in icon_detect/{train_args.yaml,model.pt,model.yaml} \
+             icon_caption/{config.json,generation_config.json,model.safetensors}; do
+        huggingface-cli download microsoft/OmniParser-v2.0 "$f" --local-dir weights
+    done
+    mv weights/icon_caption weights/icon_caption_florence
 
 Ensure the resulting structure looks like:
 
@@ -45,7 +42,7 @@ Ensure the resulting structure looks like:
 
 ---
 
-##  Step&nbsp;5: Run the Program
+## ✅ Step&nbsp;5: Run the Program
 Return to the project root and execute:
 
     python main.py
