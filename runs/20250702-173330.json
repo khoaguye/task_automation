@@ -1,0 +1,2151 @@
+{
+  "task": "Youtube app already open, find trending show, and play the first video that pop up",
+  "app_name": "Youtube",
+  "plan": [
+    {
+      "step_idx": 1,
+      "step": "Tap on the 'Trending' icon",
+      "result": "The app displays the trending videos.",
+      "reason": "Accessing the trending section is necessary to find the most popular videos currently available.",
+      "status": "success"
+    },
+    {
+      "step_idx": 2,
+      "step": "Select the first video that appears in the trending list",
+      "result": "The selected video starts playing.",
+      "reason": "Playing the first video in the trending list fulfills the goal of watching a trending show.",
+      "status": "todo"
+    }
+  ],
+  "step_idx": 1,
+  "img_before": "screenshots/screen_20250702_173330_20250702_173418.png",
+  "img_after": "screenshots/screen_20250702_173330_20250702_173811.png",
+  "ui_before": [
+    {
+      "id": 0,
+      "type": "text",
+      "bbox": [
+        0.24327485263347626,
+        0.10312151908874512,
+        0.33391812443733215,
+        0.15997770428657532
+      ],
+      "interactivity": false,
+      "content": "Trending",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 1,
+      "type": "text",
+      "bbox": [
+        0.34619882702827454,
+        0.25641027092933655,
+        0.48625731468200684,
+        0.2831661105155945
+      ],
+      "interactivity": false,
+      "content": "YoungBoy Never Broke Again",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "bbox": [
+        0.4903508722782135,
+        0.2569676637649536,
+        0.527193009853363,
+        0.27982163429260254
+      ],
+      "interactivity": false,
+      "content": "DIESEL",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "bbox": [
+        0.5339181423187256,
+        0.25529542565345764,
+        0.6385964751243591,
+        0.28205129504203796
+      ],
+      "interactivity": false,
+      "content": "OVER - [Official Music",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "bbox": [
+        0.3464912176132202,
+        0.2853957712650299,
+        0.3795321583747864,
+        0.3099219501018524
+      ],
+      "interactivity": false,
+      "content": "Video]",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "bbox": [
+        0.34619882702827454,
+        0.3115941882133484,
+        0.4397660791873932,
+        0.3322184979915619
+      ],
+      "interactivity": false,
+      "content": "YoungBoy Never Broke Again",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "bbox": [
+        0.4532163739204407,
+        0.31438127160072327,
+        0.4903508722782135,
+        0.32998883724212646
+      ],
+      "interactivity": false,
+      "content": "1.3M views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "bbox": [
+        0.5,
+        0.31438127160072327,
+        0.526900589466095,
+        0.3316611051559448
+      ],
+      "interactivity": false,
+      "content": "day ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "bbox": [
+        0.3464912176132202,
+        0.3422519564628601,
+        0.4394736886024475,
+        0.36008918285369873
+      ],
+      "interactivity": false,
+      "content": "YoungBoy Never Broke Again",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "bbox": [
+        0.445321649312973,
+        0.34280937910079956,
+        0.5520467758178711,
+        0.3595317602157593
+      ],
+      "interactivity": false,
+      "content": "New Music: https I/nbayoungboy |",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "bbox": [
+        0.5599415302276611,
+        0.3400222957134247,
+        0.667251467704773,
+        0.3617614209651947
+      ],
+      "interactivity": false,
+      "content": "to/Music Connect with YoungBoy",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "bbox": [
+        0.016959063708782196,
+        0.3589743673801422,
+        0.09619882702827454,
+        0.3801560699939728
+      ],
+      "interactivity": false,
+      "content": "Sign in to like videos,",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "bbox": [
+        0.34619882702827454,
+        0.3606466054916382,
+        0.6453216671943665,
+        0.3823857307434082
+      ],
+      "interactivity": false,
+      "content": "Never Broke Again: http:I/www:youngboynba com https:/ WWW.instagram com/nba_youngboy_",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "bbox": [
+        0.016959063708782196,
+        0.38071349263191223,
+        0.11023391783237457,
+        0.4007803797721863
+      ],
+      "interactivity": false,
+      "content": "comment; and subscribe.",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "bbox": [
+        0.3464912176132202,
+        0.45652174949645996,
+        0.4046783745288849,
+        0.48104792833328247
+      ],
+      "interactivity": false,
+      "content": "Glen Powell",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "bbox": [
+        0.4289473593235016,
+        0.4855072498321533,
+        0.4614035189151764,
+        0.5011148452758789
+      ],
+      "interactivity": false,
+      "content": "2M views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "bbox": [
+        0.4719298183917999,
+        0.4855072498321533,
+        0.4988304078578949,
+        0.5027870535850525
+      ],
+      "interactivity": false,
+      "content": "day ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "bbox": [
+        0.01315789483487606,
+        0.4972129464149475,
+        0.046783626079559326,
+        0.519509494304657
+      ],
+      "interactivity": false,
+      "content": "Explore",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "bbox": [
+        0.3464912176132202,
+        0.5117056965827942,
+        0.6523391604423523,
+        0.5328873991966248
+      ],
+      "interactivity": false,
+      "content": "Millions Hunt. One Runs. Everyone Watches Watch the Official Trailer for The #RunningManMovie",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "bbox": [
+        0.6570175290107727,
+        0.5122631192207336,
+        0.6745613813400269,
+        0.5323299765586853
+      ],
+      "interactivity": false,
+      "content": "Only",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "bbox": [
+        0.34619882702827454,
+        0.5334448218345642,
+        0.40906432271003723,
+        0.5501672029495239
+      ],
+      "interactivity": false,
+      "content": "theatres November",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "bbox": [
+        0.42076024413108826,
+        0.5384615659713745,
+        0.44152048230171204,
+        0.5496098399162292
+      ],
+      "interactivity": false,
+      "content": "a near",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "bbox": [
+        0.4383040964603424,
+        0.5312151908874512,
+        0.5921052694320679,
+        0.5529543161392212
+      ],
+      "interactivity": false,
+      "content": "~~future society, The Running Man is the top-rated.",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "bbox": [
+        0.1932748556137085,
+        0.6321070194244385,
+        0.2815789580345154,
+        0.6599776744842529
+      ],
+      "interactivity": false,
+      "content": "Trending Shorts",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "bbox": [
+        0.8576023578643799,
+        0.9241917729377747,
+        0.9084795117378235,
+        0.9487179517745972
+      ],
+      "interactivity": false,
+      "content": "DONT WORRY",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 25,
+      "type": "icon",
+      "bbox": [
+        0.19357441365718842,
+        0.2538006603717804,
+        0.3398182988166809,
+        0.41123712062835693
+      ],
+      "interactivity": true,
+      "content": "5.58 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 26,
+      "type": "icon",
+      "bbox": [
+        0.19375142455101013,
+        0.42574864625930786,
+        0.3399202525615692,
+        0.5822075009346008
+      ],
+      "interactivity": true,
+      "content": "runkg MAN OFFICIAL TRMILER 2.47 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 27,
+      "type": "icon",
+      "bbox": [
+        0.9313215017318726,
+        0.008703098632395267,
+        0.9918968081474304,
+        0.05253317952156067
+      ],
+      "interactivity": true,
+      "content": "Sign ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 28,
+      "type": "icon",
+      "bbox": [
+        0.017252808436751366,
+        0.4145909249782562,
+        0.07775825262069702,
+        0.457976371049881
+      ],
+      "interactivity": true,
+      "content": "Sign ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 29,
+      "type": "icon",
+      "bbox": [
+        0.006628179457038641,
+        0.5222379565238953,
+        0.12800118327140808,
+        0.5707831382751465
+      ],
+      "interactivity": true,
+      "content": "Trending ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 30,
+      "type": "icon",
+      "bbox": [
+        0.009939300827682018,
+        0.07457350939512253,
+        0.13892428576946259,
+        0.11601343750953674
+      ],
+      "interactivity": true,
+      "content": "Home ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 31,
+      "type": "icon",
+      "bbox": [
+        0.01094894390553236,
+        0.12348056584596634,
+        0.1391524076461792,
+        0.1590522974729538
+      ],
+      "interactivity": true,
+      "content": "Shorts ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 32,
+      "type": "icon",
+      "bbox": [
+        0.0103591438382864,
+        0.16852150857448578,
+        0.14069518446922302,
+        0.2033696472644806
+      ],
+      "interactivity": true,
+      "content": "Subscriptions ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 33,
+      "type": "icon",
+      "bbox": [
+        0.1932765543460846,
+        0.1780703216791153,
+        0.22456970810890198,
+        0.22819218039512634
+      ],
+      "interactivity": true,
+      "content": "Now ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 34,
+      "type": "icon",
+      "bbox": [
+        0.01241843681782484,
+        0.2838108539581299,
+        0.14143601059913635,
+        0.3217677175998688
+      ],
+      "interactivity": true,
+      "content": "History ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 35,
+      "type": "icon",
+      "bbox": [
+        0.01421198807656765,
+        0.9304183125495911,
+        0.10718779265880585,
+        0.9628710150718689
+      ],
+      "interactivity": true,
+      "content": "Fashion Beauty ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 36,
+      "type": "icon",
+      "bbox": [
+        0.012565642595291138,
+        0.8874477744102478,
+        0.07490982115268707,
+        0.9195267558097839
+      ],
+      "interactivity": true,
+      "content": "Courses ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 37,
+      "type": "icon",
+      "bbox": [
+        0.011947202496230602,
+        0.23710781335830688,
+        0.1411542147397995,
+        0.2784133553504944
+      ],
+      "interactivity": true,
+      "content": "You ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 38,
+      "type": "icon",
+      "bbox": [
+        0.007362699136137962,
+        0.5720690488815308,
+        0.12851998209953308,
+        0.6098464131355286
+      ],
+      "interactivity": true,
+      "content": "Shopping ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 39,
+      "type": "icon",
+      "bbox": [
+        0.011423110961914062,
+        0.840432345867157,
+        0.06828760355710983,
+        0.8761739730834961
+      ],
+      "interactivity": true,
+      "content": "Sports ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 40,
+      "type": "icon",
+      "bbox": [
+        0.2298700362443924,
+        0.17877735197544098,
+        0.2719652056694031,
+        0.22139659523963928
+      ],
+      "interactivity": true,
+      "content": "Music ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 41,
+      "type": "icon",
+      "bbox": [
+        0.011430835351347923,
+        0.7058307528495789,
+        0.1324344426393509,
+        0.742756724357605
+      ],
+      "interactivity": true,
+      "content": "Live ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 42,
+      "type": "icon",
+      "bbox": [
+        0.44469720125198364,
+        0.6822355389595032,
+        0.5704084634780884,
+        1.0
+      ],
+      "interactivity": true,
+      "content": "Her: No. 1'M INDEPENDENT WOMAN ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 43,
+      "type": "icon",
+      "bbox": [
+        0.01127130351960659,
+        0.7978503108024597,
+        0.06630928069353104,
+        0.8288453817367554
+      ],
+      "interactivity": true,
+      "content": "News ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 44,
+      "type": "icon",
+      "bbox": [
+        0.5691676139831543,
+        0.682518720626831,
+        0.6942121386528015,
+        1.0
+      ],
+      "interactivity": true,
+      "content": "EDS GARDEN I\"S BECAUSB @F ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 45,
+      "type": "icon",
+      "bbox": [
+        0.012253033928573132,
+        0.7524294853210449,
+        0.07187822461128235,
+        0.7849647998809814
+      ],
+      "interactivity": true,
+      "content": "Gaming ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 46,
+      "type": "icon",
+      "bbox": [
+        0.3447272479534149,
+        0.4241316616535187,
+        0.6481055617332458,
+        0.45384183526039124
+      ],
+      "interactivity": true,
+      "content": "The Running Man Official Trailer (2025 Movie) Edgar Wright; ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 47,
+      "type": "icon",
+      "bbox": [
+        0.011752784252166748,
+        0.6638472676277161,
+        0.0899793803691864,
+        0.6965268850326538
+      ],
+      "interactivity": true,
+      "content": "Movies TV ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 48,
+      "type": "icon",
+      "bbox": [
+        0.3466808795928955,
+        0.47968047857284546,
+        0.4205459952354431,
+        0.5046253800392151
+      ],
+      "interactivity": true,
+      "content": "Paramount Pictures ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 49,
+      "type": "icon",
+      "bbox": [
+        0.012869048863649368,
+        0.9761664867401123,
+        0.07841124385595322,
+        1.0
+      ],
+      "interactivity": true,
+      "content": "Podcasts ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 50,
+      "type": "icon",
+      "bbox": [
+        0.6943904161453247,
+        0.6823207139968872,
+        0.8189547061920166,
+        0.9996632933616638
+      ],
+      "interactivity": true,
+      "content": "HE STOLE ITW CASH MULTI: ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 51,
+      "type": "icon",
+      "bbox": [
+        0.27156391739845276,
+        0.1784375160932541,
+        0.31922945380210876,
+        0.22181037068367004
+      ],
+      "interactivity": true,
+      "content": "Gaming ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 52,
+      "type": "icon",
+      "bbox": [
+        0.01285048108547926,
+        0.6187968254089355,
+        0.068913534283638,
+        0.6524600982666016
+      ],
+      "interactivity": true,
+      "content": "Music ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 53,
+      "type": "icon",
+      "bbox": [
+        0.31070277094841003,
+        0.004922477528452873,
+        0.6314923763275146,
+        0.06357160210609436
+      ],
+      "interactivity": true,
+      "content": "Search ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 54,
+      "type": "icon",
+      "bbox": [
+        0.19255085289478302,
+        0.6852812767028809,
+        0.4469000995159149,
+        1.0
+      ],
+      "interactivity": true,
+      "content": "Golem ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 55,
+      "type": "icon",
+      "bbox": [
+        0.03274773433804512,
+        0.00872344896197319,
+        0.10419496893882751,
+        0.053898219019174576
+      ],
+      "interactivity": true,
+      "content": "YouTube ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 56,
+      "type": "icon",
+      "bbox": [
+        0.3183940649032593,
+        0.17812122404575348,
+        0.36208945512771606,
+        0.21646007895469666
+      ],
+      "interactivity": true,
+      "content": "Movies ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 57,
+      "type": "icon",
+      "bbox": [
+        0.6733372211456299,
+        0.007356289774179459,
+        0.698505163192749,
+        0.05522805452346802
+      ],
+      "interactivity": true,
+      "content": "A single black icon or symbol.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 58,
+      "type": "icon",
+      "bbox": [
+        0.6597343683242798,
+        0.2374158352613449,
+        0.6851099133491516,
+        0.2930775284767151
+      ],
+      "interactivity": true,
+      "content": "a black dot or element.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 59,
+      "type": "icon",
+      "bbox": [
+        0.9034762382507324,
+        0.0009225878166034818,
+        0.929105818271637,
+        0.06123966723680496
+      ],
+      "interactivity": true,
+      "content": "a button for selecting or indicating an item.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 60,
+      "type": "icon",
+      "bbox": [
+        0.008796912617981434,
+        0.009698744863271713,
+        0.03297534957528114,
+        0.05408068001270294
+      ],
+      "interactivity": true,
+      "content": "a black bar or line.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 61,
+      "type": "icon",
+      "bbox": [
+        0.1926790475845337,
+        0.08713483065366745,
+        0.2384689599275589,
+        0.17897814512252808
+      ],
+      "interactivity": true,
+      "content": "Refresh or reload the page.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 62,
+      "type": "icon",
+      "bbox": [
+        0.662767767906189,
+        0.41371744871139526,
+        0.6823844909667969,
+        0.46112415194511414
+      ],
+      "interactivity": true,
+      "content": "a black button or element.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 63,
+      "type": "icon",
+      "bbox": [
+        0.9262244701385498,
+        0.6279743313789368,
+        0.943098247051239,
+        0.6619234085083008
+      ],
+      "interactivity": true,
+      "content": "a black dot or button.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 64,
+      "type": "icon",
+      "bbox": [
+        0.9305345416069031,
+        0.8274517059326172,
+        0.9568744897842407,
+        0.8786651492118835
+      ],
+      "interactivity": true,
+      "content": "a line or arrow pointing downward.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 65,
+      "type": "icon",
+      "bbox": [
+        0.629977822303772,
+        0.008821090683341026,
+        0.658221423625946,
+        0.05219181999564171
+      ],
+      "interactivity": true,
+      "content": "A magnifying glass or magnifying tool.",
+      "source": "box_yolo_content_yolo"
+    }
+  ],
+  "ui_after": [
+    {
+      "id": 0,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.08862876147031784,
+        0.9532163739204407,
+        0.10869564861059189
+      ],
+      "interactivity": false,
+      "content": "PROJECT HAIL MARY Trailer",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 1,
+      "type": "text",
+      "bbox": [
+        0.8438596725463867,
+        0.10869564861059189,
+        0.9228070378303528,
+        0.1354515105485916
+      ],
+      "interactivity": false,
+      "content": "(2025) Ryan Gosling",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.13712374866008759,
+        0.8824561238288879,
+        0.15273132920265198
+      ],
+      "interactivity": false,
+      "content": "ONE Media",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.15942029654979706,
+        0.8824561238288879,
+        0.17502787709236145
+      ],
+      "interactivity": false,
+      "content": "1.7M views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "bbox": [
+        0.8929824829101562,
+        0.15942029654979706,
+        0.9230993986129761,
+        0.17781494557857513
+      ],
+      "interactivity": false,
+      "content": "days ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "bbox": [
+        0.8476608395576477,
+        0.18171682953834534,
+        0.8637427091598511,
+        0.19732441008090973
+      ],
+      "interactivity": false,
+      "content": "New",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "bbox": [
+        0.8447368144989014,
+        0.20958751440048218,
+        0.9546783566474915,
+        0.2313266396522522
+      ],
+      "interactivity": false,
+      "content": "Jeremy Allen White Reacts to",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.23188406229019165,
+        0.9315789341926575,
+        0.2541806101799011
+      ],
+      "interactivity": false,
+      "content": "The Bear Memes, Says",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.25529542565345764,
+        0.9809941649436951,
+        0.2775919735431671
+      ],
+      "interactivity": false,
+      "content": "The Tonight Show Starring Jimmy Fallon &",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.27982163429260254,
+        0.8833333253860474,
+        0.2959866225719452
+      ],
+      "interactivity": false,
+      "content": "388K views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "bbox": [
+        0.8926900625228882,
+        0.2792642116546631,
+        0.9242690205574036,
+        0.29933109879493713
+      ],
+      "interactivity": false,
+      "content": "days ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "bbox": [
+        0.8476608395576477,
+        0.3026755750179291,
+        0.8637427091598511,
+        0.31828317046165466
+      ],
+      "interactivity": false,
+      "content": "New",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.32998883724212646,
+        0.9584795236587524,
+        0.35172799229621887
+      ],
+      "interactivity": false,
+      "content": "The greatest songwriting theft",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.35228538513183594,
+        0.8842105269432068,
+        0.37235227227211
+      ],
+      "interactivity": false,
+      "content": "of all time",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "bbox": [
+        0.84415203332901,
+        0.3745819330215454,
+        0.890643298625946,
+        0.4186176061630249
+      ],
+      "interactivity": false,
+      "content": "Gsvid vartiey",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "bbox": [
+        0.9064327478408813,
+        0.40245261788368225,
+        0.9198830127716064,
+        0.41806021332740784
+      ],
+      "interactivity": false,
+      "content": "ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "bbox": [
+        0.8476608395576477,
+        0.42307692766189575,
+        0.8637427091598511,
+        0.43868449330329895
+      ],
+      "interactivity": false,
+      "content": "New",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.45150500535964966,
+        0.8809941411018372,
+        0.46822741627693176
+      ],
+      "interactivity": false,
+      "content": "Roofman",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "bbox": [
+        0.8850877285003662,
+        0.45150500535964966,
+        0.961403489112854,
+        0.46989965438842773
+      ],
+      "interactivity": false,
+      "content": "Official Trailer (2025",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "bbox": [
+        0.8461988568305969,
+        0.47380155324935913,
+        0.8722222447395325,
+        0.4921962022781372
+      ],
+      "interactivity": false,
+      "content": "Movie)",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "bbox": [
+        0.8766081929206848,
+        0.4704570770263672,
+        0.9418128728866577,
+        0.4949832856655121
+      ],
+      "interactivity": false,
+      "content": "Channing Tatum,",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.4988851845264435,
+        0.9090643525123596,
+        0.5144927501678467
+      ],
+      "interactivity": false,
+      "content": "Paramount Pictures",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.5200669169425964,
+        0.8809941411018372,
+        0.5367892980575562
+      ],
+      "interactivity": false,
+      "content": "1OM views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "bbox": [
+        0.9070175290107727,
+        0.5228539705276489,
+        0.9216374158859253,
+        0.5384615659713745
+      ],
+      "interactivity": false,
+      "content": "ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.5657747983932495,
+        0.955847978591919,
+        0.5830546021461487
+      ],
+      "interactivity": false,
+      "content": "Ukrainian Jet STRIKE Russian",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.5886287689208984,
+        0.8660818934440613,
+        0.6053511500358582
+      ],
+      "interactivity": false,
+      "content": "Base",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 26,
+      "type": "text",
+      "bbox": [
+        0.8701754212379456,
+        0.5863990783691406,
+        0.9514619708061218,
+        0.6092530488967896
+      ],
+      "interactivity": false,
+      "content": "Then THIS Happened:",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 27,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.6092530488967896,
+        0.8964912295341492,
+        0.6321070194244385
+      ],
+      "interactivity": false,
+      "content": "Beyond Military",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 28,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.6343366503715515,
+        0.8824561238288879,
+        0.6499442458152771
+      ],
+      "interactivity": false,
+      "content": "1.7M views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 29,
+      "type": "text",
+      "bbox": [
+        0.8929824829101562,
+        0.6360089182853699,
+        0.9192982316017151,
+        0.653288722038269
+      ],
+      "interactivity": false,
+      "content": "day ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 30,
+      "type": "text",
+      "bbox": [
+        0.8476608395576477,
+        0.656633198261261,
+        0.8637427091598511,
+        0.672798216342926
+      ],
+      "interactivity": false,
+      "content": "New",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 31,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.6845039129257202,
+        0.9459064602851868,
+        0.7068004608154297
+      ],
+      "interactivity": false,
+      "content": "BREAKING: Trump gets the",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 32,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.7068004608154297,
+        0.9154970645904541,
+        0.7268673181533813
+      ],
+      "interactivity": false,
+      "content": "news he DREADED",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 33,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.7329989075660706,
+        0.902046799659729,
+        0.7497212886810303
+      ],
+      "interactivity": false,
+      "content": "Brian Tyler Cohen",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 34,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.75529545545578,
+        0.8833333253860474,
+        0.7709029912948608
+      ],
+      "interactivity": false,
+      "content": "108K views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 35,
+      "type": "text",
+      "bbox": [
+        0.8967836499214172,
+        0.75529545545578,
+        0.9380117058753967,
+        0.7725752592086792
+      ],
+      "interactivity": false,
+      "content": "minutes ag0",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 36,
+      "type": "text",
+      "bbox": [
+        0.8476608395576477,
+        0.7775919437408447,
+        0.8637427091598511,
+        0.7931995391845703
+      ],
+      "interactivity": false,
+      "content": "New",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 37,
+      "type": "text",
+      "bbox": [
+        0.11257310211658478,
+        0.8115941882133484,
+        0.13011695444583893,
+        0.8288740515708923
+      ],
+      "interactivity": false,
+      "content": "0.07",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 38,
+      "type": "text",
+      "bbox": [
+        0.13450291752815247,
+        0.8115941882133484,
+        0.1520467847585678,
+        0.8288740515708923
+      ],
+      "interactivity": false,
+      "content": "2.46",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 39,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.804347813129425,
+        0.9517543911933899,
+        0.8277592062950134
+      ],
+      "interactivity": false,
+      "content": "How Japan escaped Obesity",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 40,
+      "type": "text",
+      "bbox": [
+        0.8450292348861694,
+        0.8277592062950134,
+        0.9271929860115051,
+        0.8494983315467834
+      ],
+      "interactivity": false,
+      "content": "while America got Fat",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 41,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.8534002304077148,
+        0.9543859362602234,
+        0.870680034160614
+      ],
+      "interactivity": false,
+      "content": "What Ive Learned - Joseph Everett",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 42,
+      "type": "text",
+      "bbox": [
+        0.020467836409807205,
+        0.8645485043525696,
+        0.11578947305679321,
+        0.8940914273262024
+      ],
+      "interactivity": false,
+      "content": "The Running Man",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 43,
+      "type": "text",
+      "bbox": [
+        0.12134502828121185,
+        0.8628762364387512,
+        0.2728070318698883,
+        0.892419159412384
+      ],
+      "interactivity": false,
+      "content": "Official Trailer (2025 Movie)",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 44,
+      "type": "text",
+      "bbox": [
+        0.27836257219314575,
+        0.8623188138008118,
+        0.4181286692619324,
+        0.8935340046882629
+      ],
+      "interactivity": false,
+      "content": "Edgar Wright; Glen Powell",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 45,
+      "type": "text",
+      "bbox": [
+        0.8461988568305969,
+        0.8756967782974243,
+        0.8833333253860474,
+        0.8913043737411499
+      ],
+      "interactivity": false,
+      "content": "3.1M views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 46,
+      "type": "text",
+      "bbox": [
+        0.8929824829101562,
+        0.8756967782974243,
+        0.9230993986129761,
+        0.8929765820503235
+      ],
+      "interactivity": false,
+      "content": "days ago",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 47,
+      "type": "text",
+      "bbox": [
+        0.8540935516357422,
+        0.9202898740768433,
+        0.9473684430122375,
+        0.9375696778297424
+      ],
+      "interactivity": false,
+      "content": "NEW WARZONE UPDATE",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 48,
+      "type": "text",
+      "bbox": [
+        0.74210524559021,
+        0.917502760887146,
+        0.784795343875885,
+        0.9559643268585205
+      ],
+      "interactivity": false,
+      "content": "SEA",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 49,
+      "type": "text",
+      "bbox": [
+        0.7991228103637695,
+        0.9186176061630249,
+        0.8263157606124878,
+        0.9542920589447021
+      ],
+      "interactivity": false,
+      "content": "DN",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 50,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.9425864219665527,
+        0.8730993866920471,
+        0.9598662257194519
+      ],
+      "interactivity": false,
+      "content": "Scrims",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 51,
+      "type": "text",
+      "bbox": [
+        0.8798245787620544,
+        0.9425864219665527,
+        0.9371345043182373,
+        0.9598662257194519
+      ],
+      "interactivity": false,
+      "content": "Rebirth Ranked",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 52,
+      "type": "text",
+      "bbox": [
+        0.9412280917167664,
+        0.9420289993286133,
+        0.9602339267730713,
+        0.9637681245803833
+      ],
+      "interactivity": false,
+      "content": "OpT.",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 53,
+      "type": "text",
+      "bbox": [
+        0.8453216552734375,
+        0.9665551781654358,
+        0.8739765882492065,
+        0.983834981918335
+      ],
+      "interactivity": false,
+      "content": "ZLANER",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 54,
+      "type": "text",
+      "bbox": [
+        0.033625729382038116,
+        0.9771460294723511,
+        0.08859649300575256,
+        0.9955406785011292
+      ],
+      "interactivity": false,
+      "content": "257,304 views",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 55,
+      "type": "text",
+      "bbox": [
+        0.11140350997447968,
+        0.9738015532493591,
+        0.18771930038928986,
+        0.9983277320861816
+      ],
+      "interactivity": false,
+      "content": "ago #2 on Trending",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 56,
+      "type": "text",
+      "bbox": [
+        0.8935672640800476,
+        0.3991081416606903,
+        0.90584796667099,
+        0.4186176061630249
+      ],
+      "interactivity": false,
+      "content": "day",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 57,
+      "type": "text",
+      "bbox": [
+        0.8909356594085693,
+        0.5178372263908386,
+        0.9070175290107727,
+        0.5406911969184875
+      ],
+      "interactivity": false,
+      "content": "days",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 58,
+      "type": "text",
+      "bbox": [
+        0.09707602113485336,
+        0.974916398525238,
+        0.11169590801000595,
+        0.9972129464149475
+      ],
+      "interactivity": false,
+      "content": "day",
+      "source": "box_ocr_content_ocr"
+    },
+    {
+      "id": 59,
+      "type": "icon",
+      "bbox": [
+        0.7427138090133667,
+        0.2075541466474533,
+        0.8433587551116943,
+        0.31971243023872375
+      ],
+      "interactivity": true,
+      "content": "JEREMY ALLEN ! 10.40 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 60,
+      "type": "icon",
+      "bbox": [
+        0.7424625754356384,
+        0.44893598556518555,
+        0.843180239200592,
+        0.5587628483772278
+      ],
+      "interactivity": true,
+      "content": "roofman Official Trailer 2.27 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 61,
+      "type": "icon",
+      "bbox": [
+        0.7428135275840759,
+        0.5633867383003235,
+        0.8428534865379333,
+        0.6747068166732788
+      ],
+      "interactivity": true,
+      "content": "15.22 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 62,
+      "type": "icon",
+      "bbox": [
+        0.7428818941116333,
+        0.328237384557724,
+        0.8433153033256531,
+        0.4394436776638031
+      ],
+      "interactivity": true,
+      "content": "wrote it, not them 7.02 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 63,
+      "type": "icon",
+      "bbox": [
+        0.7426056265830994,
+        0.08699635416269302,
+        0.8432906866073608,
+        0.20064397156238556
+      ],
+      "interactivity": true,
+      "content": "TRAILER 3.11 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 64,
+      "type": "icon",
+      "bbox": [
+        0.5927559733390808,
+        0.9022194147109985,
+        0.6501030325889587,
+        0.9454373717308044
+      ],
+      "interactivity": true,
+      "content": "Share ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 65,
+      "type": "icon",
+      "bbox": [
+        0.9311625361442566,
+        0.008846646174788475,
+        0.9918968677520752,
+        0.05314290523529053
+      ],
+      "interactivity": true,
+      "content": "Sign ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 66,
+      "type": "icon",
+      "bbox": [
+        0.6513440012931824,
+        0.9023126363754272,
+        0.705222487449646,
+        0.9454413056373596
+      ],
+      "interactivity": true,
+      "content": "Save ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 67,
+      "type": "icon",
+      "bbox": [
+        0.15808573365211487,
+        0.9029258489608765,
+        0.21587048470973969,
+        0.9455662369728088
+      ],
+      "interactivity": true,
+      "content": "Subscribe ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 68,
+      "type": "icon",
+      "bbox": [
+        0.026237202808260918,
+        0.27329787611961365,
+        0.7179576754570007,
+        0.7829301357269287
+      ],
+      "interactivity": true,
+      "content": "@U6ERIC ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 69,
+      "type": "icon",
+      "bbox": [
+        0.5116662383079529,
+        0.9009619355201721,
+        0.5907503962516785,
+        0.9442867636680603
+      ],
+      "interactivity": true,
+      "content": "59K ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 70,
+      "type": "icon",
+      "bbox": [
+        0.020049143582582474,
+        0.8985198140144348,
+        0.15263475477695465,
+        0.9442639350891113
+      ],
+      "interactivity": true,
+      "content": "Paramount Pictures 4.04M subscribers ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 71,
+      "type": "icon",
+      "bbox": [
+        0.04078672081232071,
+        0.01844221167266369,
+        0.09771784394979477,
+        0.04517919570207596
+      ],
+      "interactivity": true,
+      "content": "YouTube ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 72,
+      "type": "icon",
+      "bbox": [
+        0.308502733707428,
+        0.004959696438163519,
+        0.6301410794258118,
+        0.06387871503829956
+      ],
+      "interactivity": true,
+      "content": "Search ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 73,
+      "type": "icon",
+      "bbox": [
+        0.743026077747345,
+        0.8041120767593384,
+        0.8430488705635071,
+        0.9184905290603638
+      ],
+      "interactivity": true,
+      "content": "TOO EASY TO BE THIN 14.46 ",
+      "source": "box_yolo_content_ocr"
+    },
+    {
+      "id": 74,
+      "type": "icon",
+      "bbox": [
+        0.7426385879516602,
+        0.6833292841911316,
+        0.8431810736656189,
+        0.7962055802345276
+      ],
+      "interactivity": true,
+      "content": "A person's profile or avatar.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 75,
+      "type": "icon",
+      "bbox": [
+        0.6266582012176514,
+        0.0059255873784422874,
+        0.6657251715660095,
+        0.05570116266608238
+      ],
+      "interactivity": true,
+      "content": "the symbol for magnifying glass.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 76,
+      "type": "icon",
+      "bbox": [
+        0.6721730828285217,
+        0.003913368098437786,
+        0.6992137432098389,
+        0.05639246106147766
+      ],
+      "interactivity": true,
+      "content": "A single black icon or symbol.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 77,
+      "type": "icon",
+      "bbox": [
+        0.010555187240242958,
+        0.012721414677798748,
+        0.03093482181429863,
+        0.05098675563931465
+      ],
+      "interactivity": true,
+      "content": "a black bar or line.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 78,
+      "type": "icon",
+      "bbox": [
+        0.05845145881175995,
+        0.7998324632644653,
+        0.08058323711156845,
+        0.8414959907531738
+      ],
+      "interactivity": true,
+      "content": "a white arrow pointing downward.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 79,
+      "type": "icon",
+      "bbox": [
+        0.61318039894104,
+        0.7940341234207153,
+        0.6381417512893677,
+        0.8456290364265442
+      ],
+      "interactivity": true,
+      "content": "A notification or notification related to a video.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 80,
+      "type": "icon",
+      "bbox": [
+        0.9058856964111328,
+        0.006442558951675892,
+        0.927029013633728,
+        0.05710192769765854
+      ],
+      "interactivity": true,
+      "content": "a black dot or element.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 81,
+      "type": "icon",
+      "bbox": [
+        0.08620204776525497,
+        0.8013225197792053,
+        0.10638551414012909,
+        0.8407865762710571
+      ],
+      "interactivity": true,
+      "content": "A push pin or arrow.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 82,
+      "type": "icon",
+      "bbox": [
+        0.027691608294844627,
+        0.7943645119667053,
+        0.05400560796260834,
+        0.8435874581336975
+      ],
+      "interactivity": true,
+      "content": "a low profile or profile button.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 83,
+      "type": "icon",
+      "bbox": [
+        0.6405348181724548,
+        0.7939661741256714,
+        0.6644488573074341,
+        0.8467411994934082
+      ],
+      "interactivity": true,
+      "content": "A blank space or rectangle.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 84,
+      "type": "icon",
+      "bbox": [
+        0.6960301399230957,
+        0.7948489785194397,
+        0.7227298021316528,
+        0.8437438011169434
+      ],
+      "interactivity": true,
+      "content": "the first step or element.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 85,
+      "type": "icon",
+      "bbox": [
+        0.7069875001907349,
+        0.9027509689331055,
+        0.7306922078132629,
+        0.9462260007858276
+      ],
+      "interactivity": true,
+      "content": "a user profile or avatar.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 86,
+      "type": "icon",
+      "bbox": [
+        0.5539916157722473,
+        0.7945877313613892,
+        0.5803744196891785,
+        0.8446581959724426
+      ],
+      "interactivity": true,
+      "content": "a play button or button.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 87,
+      "type": "icon",
+      "bbox": [
+        0.9622970223426819,
+        0.07974981516599655,
+        0.984534502029419,
+        0.12784621119499207
+      ],
+      "interactivity": true,
+      "content": "a button for selecting or indicating a button.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 88,
+      "type": "icon",
+      "bbox": [
+        0.6675074696540833,
+        0.7942216992378235,
+        0.6930732727050781,
+        0.8467816710472107
+      ],
+      "interactivity": true,
+      "content": "a blank space or window.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 89,
+      "type": "icon",
+      "bbox": [
+        0.5861433148384094,
+        0.7972099184989929,
+        0.6075817346572876,
+        0.8423277735710144
+      ],
+      "interactivity": true,
+      "content": "A symbol or symbol, possibly indicating a user profile or account.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 90,
+      "type": "icon",
+      "bbox": [
+        0.9642316699028015,
+        0.32458823919296265,
+        0.9814741015434265,
+        0.36493274569511414
+      ],
+      "interactivity": true,
+      "content": "a black dot or symbol.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 91,
+      "type": "icon",
+      "bbox": [
+        0.9651094675064087,
+        0.20622488856315613,
+        0.982099711894989,
+        0.24270206689834595
+      ],
+      "interactivity": true,
+      "content": "a black dot or element.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 92,
+      "type": "icon",
+      "bbox": [
+        0.9688658714294434,
+        0.9187666177749634,
+        0.9798306226730347,
+        0.9496024250984192
+      ],
+      "interactivity": true,
+      "content": "a black item that is not selected or selected",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 93,
+      "type": "icon",
+      "bbox": [
+        0.9669767022132874,
+        0.6833537817001343,
+        0.9816167950630188,
+        0.7143006324768066
+      ],
+      "interactivity": true,
+      "content": "a black button or element.",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 94,
+      "type": "icon",
+      "bbox": [
+        0.9675485491752625,
+        0.5647786855697632,
+        0.9803922176361084,
+        0.5950341820716858
+      ],
+      "interactivity": true,
+      "content": "a single black dot",
+      "source": "box_yolo_content_yolo"
+    },
+    {
+      "id": 95,
+      "type": "icon",
+      "bbox": [
+        0.9682825207710266,
+        0.804556667804718,
+        0.9806584715843201,
+        0.8350412249565125
+      ],
+      "interactivity": true,
+      "content": "a single black item",
+      "source": "box_yolo_content_yolo"
+    }
+  ],
+  "action": {
+    "id": 46,
+    "content": "The Running Man Official Trailer (2025 Movie) Edgar Wright; ",
+    "action": "click",
+    "text": "",
+    "reason": "Clicking on the correct video element ensures that the intended video starts playing, fulfilling the goal of watching a trending show.",
+    "bbox": [
+      0.3447272479534149,
+      0.4241316616535187,
+      0.6481055617332458,
+      0.45384183526039124
+    ]
+  },
+  "retries": 3,
+  "status": "acting",
+  "explanation": "The action to click on 'The Running Man Official Trailer (2025 Movie) Edgar Wright;' did not succeed because the UI state after the action shows a different video, 'PROJECT HAIL MARY Trailer', indicating that the intended video did not start playing.",
+  "fix": "Ensure that the correct video element is clicked by verifying its presence and interactivity before the action.",
+  "request": "refresh"
+}

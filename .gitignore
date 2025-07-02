@@ -3,12 +3,11 @@ myenv/
 newvenv/
 Dockerfile
 .dockerignore
-
-
-
-
-
-
+.env
+**.log
+parser/
+__pycache__/
+.DS_Store
 
 
 
