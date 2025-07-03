@@ -9,7 +9,7 @@ parser/
 __pycache__/
 .DS_Store
 .python-version
-
+OmniParser/weights
 
 
 
