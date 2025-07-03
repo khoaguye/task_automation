@@ -1,14 +1,21 @@
 # .gitignore
 myenv/
-newvenv/
+newenv/
 Dockerfile
 .dockerignore
-.env
+*.env
 **.log
 parser/
 __pycache__/
 .DS_Store
 .python-version
 OmniParser/weights
+
+# Ignore runs and screenshots folders and their contents
 runs/
 screenshots/
+
+# Ignore specific file types
+parser/*.json
+runs/*.json
+screenshots/*.png
